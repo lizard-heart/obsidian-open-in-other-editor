@@ -1,10 +1,10 @@
 {
 	"id": "obsidian-open-in-other-editor",
-	"name": "Open in other editor",
+	"name": "Open in other editor (modified)",
 	"version": "0.0.4",
 	"minAppVersion": "0.15.0",
 	"description": "Open current active file in gVim or VScode.",
-	"author": "yekingyan",
-	"authorUrl": "https://github.com/yekingyan/obsidian-open-in-other-editor",
+	"author": "Henry Gustafson",
+	"authorUrl": "https://lizard-heart.github.io",
 	"isDesktopOnly": false
 }
